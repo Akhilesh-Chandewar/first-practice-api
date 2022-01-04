@@ -1,0 +1,17 @@
+{
+  "name": "first-api",
+  "version": "1.0.0",
+  "description": "this is my first practice api",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start-app": "nodemon index.js"
+  },
+  "author": "akhil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  }
+}
